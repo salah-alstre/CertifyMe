@@ -36,7 +36,6 @@
 
 The projects and achievements displayed here are part of my continuous learning journey. You can follow my progress and join my educational journey through my LinkedIn profile and relevant courses.
 
-<a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://link-to-your-thumbnail-image" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -44,7 +43,6 @@ Welcome to my portfolio website where I share my certifications, technical achie
 
 If you’re looking for inspiration or guidance, feel free to reach out via my contact links.
 
-<a href="https://discord.com/invite/your-discord-link" target="_blank"><img src="https://link-to-discord-icon" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
