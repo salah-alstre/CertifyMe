@@ -19,6 +19,12 @@
     </div>
 </div>
 
+
+## Screenshots
+![Image](https://github.com/salah-alstre/CertifyMe/blob/main/public/CertifyMe.png)
+
+
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
