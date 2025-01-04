@@ -64,10 +64,6 @@ If you’re looking for inspiration or guidance, feel free to reach out via my c
 
 👉 **Building Scalable Applications**: Gained advanced skills in building scalable and performant applications using modern tools and best practices.
 
-👉 **Chatbot Integration for Problem Solving**: Developed and integrated chatbots to enhance user experience and provide instant problem-solving capabilities.
-
-👉 **Contributing to Open Source**: Contributed to several open-source projects, refining my coding and collaboration skills.
-
 👉 **Building Real-World Projects**: Developed several personal projects that have been deployed and shared with the community.
 
 ## <a name="quick-start">🤸 Quick Start</a>
