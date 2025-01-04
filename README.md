@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+    <a href="https://www.linkedin.com/in/salah-alstre-8aba5a322/" target="_blank">
     </a>
   <br />
 
@@ -25,9 +25,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Certifications & Achievements](#certifications)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Projects & Links](#projects)
-6. 🚀 [More](#more)
-
 ## ⚠️ Disclaimer
 
 This website showcases my personal certifications, achievements, and projects for **educational and professional purposes**. It is not intended for commercial use or public deployment.
