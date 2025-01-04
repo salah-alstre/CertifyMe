@@ -99,7 +99,7 @@ Make sure you have the following installed on your machine:
 
 
    ## Demo:
-Check out the live version of the portfolio here: [Demo Link](https://devr-profile.vercel.app/)
+Check out the live version of the portfolio here: [Demo Link](https://certify-me-eight.vercel.app/)
 
 
 ## Contributing
