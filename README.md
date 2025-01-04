@@ -100,4 +100,36 @@ Make sure you have the following installed on your machine:
 5. Running the Server
 
 
-       npm run dev 
+       npm run dev
+
+
+
+   ## Demo:
+Check out the live version of the portfolio here: [Demo Link](https://devr-profile.vercel.app/)
+
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please open a Pull Request (PR) with your changes. 
+
+To do this, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a clear message.
+4. Push your changes to your forked repository.
+5. Open a Pull Request to the main repository.
+
+We appreciate your contributions!
+
+
+
+## Contact
+If you have any questions or feedback, feel free to reach out:
+
+- Email: [email](mailto:error.salah59@gmail.com)
+- VC:    [ Salah Cv ](https://salahcv.site/)
+
+## License
+This project is licensed under the MIT License.
+
