@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=next.js&color=000000" alt="next.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-    <img src="https://img.shields.io/badge/-Chatbot-black?style=for-the-badge&logoColor=white&logo=robot&color=00BFFF" alt="chatbot" />
   </div>
 
   <h3 align="center">My Achievements and Certifications</h3>
@@ -90,11 +89,11 @@ Make sure you have the following installed on your machine:
 1. **Cloning the Repository**
 
    ```bash
-   git clone https://github.com/salah-alstre/Devr-Profile.git
+   git clone https://github.com/salah-alstre/CertifyMe.git
 
 2. Navigate to the project directory:
 
-       cd Devr-Profile
+       cd CertifyMe
 
 4. Install dependencies:
 
