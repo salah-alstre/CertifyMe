@@ -30,9 +30,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Certifications & Achievements](#certifications)
 4. 🤸 [Quick Start](#quick-start)
-## ⚠️ Disclaimer
 
-This website showcases my personal certifications, achievements, and projects for **educational and professional purposes**. It is not intended for commercial use or public deployment.
 
 ## 🚨 Tutorial
 
