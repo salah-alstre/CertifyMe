@@ -42,7 +42,7 @@ The projects and achievements displayed here are part of my continuous learning 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to my portfolio website where I share my certifications, technical achievements, and projects. My journey in full-stack development has been guided by a passion for creating innovative solutions and solving real-world problems using modern technologies like **React.js**, **Next.js**, **Tailwind CSS**, **Vite**, and **chatbots**.
+Welcome to my portfolio website where I share my certifications, technical achievements, and projects. My journey in full-stack development has been guided by a passion for creating innovative solutions and solving real-world problems using modern technologies like **React.js**, **Next.js**, **Tailwind CSS**, **Vite**,
 
 If you’re looking for inspiration or guidance, feel free to reach out via my contact links.
 
