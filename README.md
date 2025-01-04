@@ -1,7 +1,6 @@
 <div align="center">
   <br />
     <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
-      <img src="https://link-to-your-banner-image" alt="Project Banner">
     </a>
   <br />
 
@@ -81,8 +80,24 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
+  
+ ## installation
 
-```bash
-git clone https://github.com/yourusername/your-project-repo.git
-cd your-project-repo
+
+1. **Cloning the Repository**
+
+   ```bash
+   git clone https://github.com/salah-alstre/Devr-Profile.git
+
+2. Navigate to the project directory:
+
+       cd Devr-Profile
+
+4. Install dependencies:
+
+       npm install
+
+5. Running the Server
+
+
+       npm run dev 
