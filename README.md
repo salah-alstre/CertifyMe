@@ -50,7 +50,6 @@ If you’re looking for inspiration or guidance, feel free to reach out via my c
 - **Next.js**
 - **Tailwind CSS**
 - **Vite**
-- **Chatbot Integration**
 - **JavaScript**
 - **Node.js**
 
