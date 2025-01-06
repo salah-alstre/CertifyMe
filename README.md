@@ -95,10 +95,6 @@ Make sure you have the following installed on your machine:
 
        npm run dev
 
-div align="center">
-  <div>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.proshop.dk%2FDemo-produkter&psig=AOvVaw2xQjiNtvY-MBpcC0qZOK6c&ust=1736258598075000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj5sbii4YoDFQAAAAAdAAAAABAE" alt="react.js" /
-  </div>
 
    ## Demo:
 Check out the live version of the portfolio here: [Demo Link](https://certify-me-eight.vercel.app/)
